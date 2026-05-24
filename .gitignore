@@ -1,0 +1,5 @@
+venv/
+__pycache__/
+*.pyc
+static/uploads/
+model/tumor_model.h5
