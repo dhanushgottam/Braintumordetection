@@ -1,0 +1,6 @@
+venv
+dataset
+__pycache__
+static/uploads
+.git
+*.pyc
